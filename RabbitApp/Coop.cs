@@ -9,8 +9,8 @@ namespace RabbitApp
 {
    public  class Coop
     {
-        //ArrayList<MaleRabbit> maleRabbits = new ArrayList<MaleRabbit>();
-        //ArrayList<FemaleRabbit> femaleRabbits = new ArrayList<FemaleRabbit>();
+        List<MaleRabbit> maleRabbits = new List<MaleRabbit>();
+        List<FemaleRabbit> femaleRabbits = new List<FemaleRabbit>();
 
         private int percentageOfRabbitsBorn;
         private int numberofNewbornRabbits;

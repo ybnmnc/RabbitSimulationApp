@@ -10,6 +10,8 @@ namespace RabbitApp
     {
         static void Main(string[] args)
         {
+            // ılk uygulama ıcın app yazılmalı.
+            //fonk cagır.
         }
     }
 }
